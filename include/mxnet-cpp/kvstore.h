@@ -11,6 +11,7 @@
 #include <string>
 #include <vector>
 #include "mxnet-cpp/ndarray.h"
+#include "mxnet-cpp/optimizer.h"
 
 namespace mxnet {
 namespace cpp {
